@@ -4,7 +4,7 @@
 
 Managed end-to-end regional sales analytics, including data ingestion, data cleaning, exploratory analysis, and the development of executive dashboards.
 
-Turned transactional data into actionable insights that improved regional sales performance.
+Converted transactional data into actionable insights that supported improvements in regional sales performance.
 
 Used data ingestion and validation tools, along with BI platforms, to deliver executive reporting and interactive analytics.
 
